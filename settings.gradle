@@ -1,0 +1,2 @@
+include ':paragon-interactor'
+rootProject.name='Paragon Interactor'
